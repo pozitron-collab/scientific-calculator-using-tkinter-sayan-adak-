@@ -1,1 +1,1 @@
-# scientific-calculator-using-tkinter
+# scientific-calculator-using-tkinter-sayan-adak
